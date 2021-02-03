@@ -48,9 +48,9 @@ These are some of my favourite places which I recommend for others to visit
 ---
 ## Life Quotes
 
-> "Reality is that which, when you stop believing in it, doesn't go away."
+> "Reality is that which, when you stop believing in it, doesn't go away." ― Philip K. Dick
 
-> "Words are free.It's how you use them.That may cost you."
+> "Words are free.It's how you use them.That may cost you." -Rev. J. Martin
 
 ---
 ## Code fencing
