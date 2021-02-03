@@ -15,3 +15,21 @@
 6. At the top of the settings page, you will see a "photo" tab. Click this and add a photo of you.
 7. Complete the rest of your profile information.And your twitter account is craeted.
 8. Next time you can just click login option by providing your username and password and that directly opens your home page.
+
+- Laptop
+- Date of birth
+- email ID
+- Phone number
+
+**[my picture](Padmini.JPG)**
+
+---
+## My favourite tourist places
+These are some of my favourite places which I recommend for others to visit
+
+|location     |Spending Hours |Amount to be spent|
+|:---:| :---: | :---: |
+|California   |      48       |      $200        |
+|New York     |      24       |      $300        |
+|Alleppey     |      72       |      $100        |
+|Mumbai       |      24       |      $100        |
