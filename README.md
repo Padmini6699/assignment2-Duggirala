@@ -33,3 +33,12 @@ These are some of my favourite places which I recommend for others to visit
 |New York     |      24       |      $300        |
 |Alleppey     |      72       |      $100        |
 |Mumbai       |      24       |      $100        |
+
+---
+## Life Quotes
+
+> "Reality is that which, when you stop believing in it, doesn't go away."
+
+> "Words are free.It's how you use them.That may cost you."
+
+---
