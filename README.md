@@ -42,3 +42,20 @@ These are some of my favourite places which I recommend for others to visit
 > "Words are free.It's how you use them.That may cost you."
 
 ---
+## Code fencing
+> Transact-SQL (T-SQL) is Microsoft's and Sybase's proprietary extension to the SQL (Structured Query Language) used to interact with relational databases. T-SQL expands on the SQL standard to include procedural programming, local variables, various support functions for string processing, date processing, mathematics, etc. and changes to the DELETE and UPDATE statements.
+
+Source Link <https://en.wikipedia.org/wiki/Transact-SQL>
+
+```
+SELECT emp.BusinessEntityID AS EmpID,
+    psn.FirstName, 
+    psn.LastName,
+    emp.NationalIDNumber AS NatID
+  FROM HumanResources.Employee emp, 
+    Person.Person psn
+  WHERE emp.BusinessEntityID = psn.BusinessEntityID
+    AND emp.JobTitle = 'Production Technician - WC60';
+```
+
+Source Link <https://www.red-gate.com/simple-talk/sql/t-sql-programming/basics-good-t-sql-coding-style/>
