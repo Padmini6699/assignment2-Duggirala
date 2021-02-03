@@ -2,6 +2,7 @@
 # Padmini Duggirala
 ###### Chicken biryani
 >Biryani is a mixed rice dish originating from the Indian subcontinent. It is made with **Indian spices**, rice, and meat, and sometimes, in addition, eggs and/or vegetables such as potatoes in certain regional varieties. I like it  because it tatses too yum!
+![picture](images/chickenbiriyani.jpg)
 
 ***
 ***How to create Twitter account?***
@@ -38,7 +39,7 @@ These are some of my favourite places which I recommend for others to visit
 ![picture](images/newyork.jpg)
 ![picture](images/alleppey.jpg)
 ![picture](images/mumbai.jpg)
-![picture](images/chickenbiriyani.jpg)
+
 
 
 
