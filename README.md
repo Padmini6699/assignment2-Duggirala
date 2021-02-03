@@ -34,11 +34,11 @@ These are some of my favourite places which I recommend for others to visit
 |Alleppey     |      72       |      $100        |
 |Mumbai       |      24       |      $100        |
 
-![picture](california.jpg)
-![picture](newyork.jpg)
-![picture](alleppey.jpg)
-![picture](mumbai.jpg)
-![picture](chickenbiriyani.jpg)
+![picture](images/california.jpg)
+![picture](images/newyork.jpg)
+![picture](images/alleppey.jpg)
+![picture](images/mumbai.jpg)
+![picture](images/chickenbiriyani.jpg)
 
 
 
